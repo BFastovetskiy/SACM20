@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 
-namespace SACM20.Core.Security
+namespace SACM.Core.Security
 {
     public interface IRole
     {

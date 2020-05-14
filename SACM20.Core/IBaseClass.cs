@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SACM20.Core
+namespace SACM.Core
 {
     public delegate StateResult RenameObjectHandler(string oldTitle, string newTitle);
 

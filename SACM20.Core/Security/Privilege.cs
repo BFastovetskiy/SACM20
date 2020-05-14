@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SACM20.Core.Security
+namespace SACM.Core.Security
 {
     public class Privilege : IPrivilege
     {

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SACM20.Core", "SACM20.Core\SACM20.Core.csproj", "{693265CA-CA15-418F-828F-4C672EC33737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SACM.Core", "SACM20.Core\SACM.Core.csproj", "{693265CA-CA15-418F-828F-4C672EC33737}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SACM20", "SACM\SACM20.csproj", "{3CF863CF-99A7-4340-A859-EB9C19B00AA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SACM", "SACM\SACM.csproj", "{3CF863CF-99A7-4340-A859-EB9C19B00AA6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApplication", "TestApplication\TestApplication.csproj", "{C0A5ECE2-15C8-4D18-A7E3-AD2E2A6D46A4}"
 EndProject

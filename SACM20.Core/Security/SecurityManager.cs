@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace SACM20.Core.Security
+namespace SACM.Core.Security
 {
     public class SecurityManager : ISecurityManager
     {

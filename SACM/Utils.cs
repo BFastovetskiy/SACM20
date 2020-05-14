@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SACM20
+namespace SACM
 {
     public class Utils
     {

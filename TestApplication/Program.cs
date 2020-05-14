@@ -3,8 +3,8 @@ using Npgsql;
 
 namespace TestApplication
 {
-    using SACM20.Core;
-    using SACM20.Core.Security;
+    using SACM.Core;
+    using SACM.Core.Security;
     class Program
     {
         static void Main(string[] args)

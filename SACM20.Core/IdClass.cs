@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 
-namespace SACM20.Core
+namespace SACM.Core
 {
     public abstract class IdClass : IClass
     {
